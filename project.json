@@ -1,0 +1,17 @@
+{
+  "title": "Repo with a branch workflow demo",
+  "description": "Frontend Engineering: git branch, commit, merge, pull request",
+  "tech": [
+    "HTML",
+    "CSS",
+    "Tailwind CSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js"
+  ],
+  "track": "frontend",
+  "phase": "phase-1-git-basics",
+  "keyword": "git branch, commit, merge, pull request",
+  "featured": false
+}
