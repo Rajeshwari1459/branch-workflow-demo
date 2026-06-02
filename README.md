@@ -10,4 +10,3 @@
 - Pull request (PR) → Propose merging your branch into another branch (often develop or main).
 - Code review & merge → Team members review changes, then merge them into the target branch.
 - Delete branch (optional) → Once merged, you can delete the feature branch to keep the repo tidy.
-
